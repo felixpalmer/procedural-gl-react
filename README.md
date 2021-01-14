@@ -19,9 +19,12 @@ This repository contains a React wrapper for the library allowing it to be easil
 Install
 =======
 
+This component does not bundle React, nor Procedural GL JS but instead expects them as peer dependencies. As such you will need to install them if they are not part of your project already.
+
     npm install react
     npm install react-dom
     npm install procedural-gl
+    npm install procedural-gl-react
 
 Usage
 =====
@@ -43,4 +46,3 @@ Example
 =======
 
 An more complete example of how to integrate this library with React can be found [here](https://github.com/felixpalmer/procedural-gl-react-example).
-
