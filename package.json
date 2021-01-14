@@ -1,6 +1,6 @@
 {
   "name": "procedural-gl-react",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "Procedural Maps React SDK",
   "main": "build/procedural-gl-react.js",
   "module": "build/procedural-gl-react.module.js",
