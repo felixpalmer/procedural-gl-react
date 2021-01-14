@@ -38,3 +38,9 @@ import ProceduralMap from 'procedural-gl-react';
     longitude: 13.55
   }}/>
 ```
+
+Example
+=======
+
+An more complete example of how to integrate this library with React can be found [here](https://github.com/felixpalmer/procedural-gl-react-example).
+
