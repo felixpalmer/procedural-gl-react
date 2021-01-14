@@ -1,0 +1,26 @@
+{
+  "name": "procedural-gl-react",
+  "version": "1.0.6",
+  "description": "Procedural Maps React SDK",
+  "main": "build/procedural-gl-react.js",
+  "module": "build/procedural-gl-react.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "rollup -c",
+    "dev": "find . -type f \\( -iname \\*js \\) | entr rollup -c"
+  },
+  "author": "felixpalmer",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "procedural-gl": "~1.0",
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "rollup": "^1.14.6",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-node-resolve": "^5.0.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-replace": "^2.2.0"
+  }
+}
