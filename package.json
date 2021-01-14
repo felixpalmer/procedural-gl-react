@@ -11,6 +11,13 @@
   },
   "author": "felixpalmer",
   "license": "MIT",
+  "files": [
+    "build/procedural-gl-react.js",
+    "build/procedural-gl-react.module.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "dependencies": {},
   "peerDependencies": {
     "procedural-gl": "~1.0",
