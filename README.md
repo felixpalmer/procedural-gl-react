@@ -3,7 +3,7 @@ Procedural GL React component
 
 <img src="https://raw.githubusercontent.com/felixpalmer/procedural-gl-js/main/screenshots/title.jpg" width="40%" align="right" />
 
-Procedural GL JS is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top of [THREE.js](https://github.com/mrdoob/three.js).
+[Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top of [THREE.js](https://github.com/mrdoob/three.js).
 
 It provides an easy-to-use, but powerful framework to allow beautiful landscapes of the outdoors to be embedded into web pages. It loads super-fast and is optimized for mobile devices.
 
@@ -19,7 +19,7 @@ This repository contains a React wrapper for the library allowing it to be easil
 Install
 =======
 
-This component does not bundle React, nor Procedural GL JS but instead expects them as peer dependencies. As such you will need to install them if they are not part of your project already.
+This component does not bundle React, nor [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) but instead expects them as peer dependencies. As such you will need to install them if they are not part of your project already.
 
     npm install react
     npm install react-dom
