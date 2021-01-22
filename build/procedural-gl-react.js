@@ -22,6 +22,7 @@
 
   const SUPPORTED_CALLBACKS = [
     'onBoundsFocused',
+    'onCameraChange',
     'onFeatureClicked',
     'onFeatureSelected',
     'onFeaturesLoaded',
